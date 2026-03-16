@@ -1,5 +1,7 @@
 # ex-tool-loop-agent
 
+Just building a small proof of concept of an agent that loops a maximum number of steps until it calls a task_completed tool.
+
 To install dependencies:
 
 ```bash
