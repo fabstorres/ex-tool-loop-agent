@@ -11,8 +11,9 @@
   },
   "dependencies": {
     "@effect/ai": "^0.33.2",
-    "@effect/ai-openrouter": "^0.8.4",
+    "@effect/ai-openrouter": "^0.10.0",
     "@effect/platform": "^0.94.5",
+    "@effect/platform-node": "^0.104.1",
     "effect": "^3.19.19"
   }
 }
